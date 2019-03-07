@@ -1,0 +1,1 @@
+# Notes on Bishop: Pattern Recognition and Machine Learning
